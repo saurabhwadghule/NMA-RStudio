@@ -1,4 +1,3 @@
-# R_Network_Meta-analysis
 # 📊 Network Meta-Analysis in R: Master's Thesis Project
 
 ## 📝 About This Project  
