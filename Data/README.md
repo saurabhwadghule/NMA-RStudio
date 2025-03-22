@@ -1,5 +1,6 @@
 Data Preparation for Network Meta-Analysis (NMA) in R using netmeta
-This study focuses on efficacy data, where hazard ratios (HR) and their confidence intervals (CI) were extracted for the overall population and patient subgroups (BRCA & HRD mutation-positive patients).
+
+This is efficacy data, where hazard ratios (HR) and their confidence intervals (CI) were extracted for the overall population and patient subgroups (BRCA & HRD mutation-positive patients).
 
 Before analyzing the data using the netmeta package in R, HR values need to be transformed:
 
